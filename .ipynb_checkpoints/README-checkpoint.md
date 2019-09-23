@@ -1,3 +1,0 @@
-# aws-ml-labs
-
-testing
